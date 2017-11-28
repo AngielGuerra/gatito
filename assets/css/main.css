@@ -1,0 +1,11 @@
+.fondo{
+	background-image: url(../img/sunny-day.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.img{
+	padding-top: 26.5%;
+	padding-left: 25%;
+	position: relative;
+}
+
